@@ -26,14 +26,9 @@ https://sachin-chaturvedi-portfolio.netlify.app/#about
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sachin2903&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-chaturvedi-403255225) 
 
-
----
 [![](https://visitcount.itsvg.in/api?id=Sachin2903&icon=4&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
