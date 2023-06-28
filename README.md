@@ -7,7 +7,7 @@
 Hi! I am Sachin Chaturvedi <br>A Frontend Developer focused on crafting great web experiences. <br>Designing and Coding have been my passion since the day I started working with computers but<br>I found myself into Web Development. I enjoy creating beautifully designed and functional websites.<br><br>
 
 ## My Portfolio 
-📍 https://sachin-chaturvedi-portfolio.netlify.app/#about
+📍 https://sachin-chaturvedi-portfolio.netlify.app/
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
