@@ -34,4 +34,5 @@ Hi! I am Sachin Chaturvedi <br>A Frontend Developer focused on crafting great we
 
 [![](https://visitcount.itsvg.in/api?id=Sachin2903&icon=4&color=6)](https://visitcount.itsvg.in)
 
-###Mobile Number :- 9582784848
+ Mobile Number :- 9582784848
+ email :sachinChaturvedi052@gmail.com
