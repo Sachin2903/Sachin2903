@@ -1,4 +1,5 @@
-![logo](https://github.com/Sachin2903/Sachin2903/assets/92660783/f7cac404-ace9-44af-8d40-9f6f3dcaf8b3)
+
+![abc](https://github.com/Sachin2903/Sachin2903/assets/92660783/bd3231a7-4504-4847-bc8c-644333863ca4)
 
 <h1 align="center">Hi 👋, I'm Sachin Chaturvedi</h1>
 <h3 align="center">React Front-End Developer</h3>
