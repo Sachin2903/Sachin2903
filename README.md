@@ -2,10 +2,10 @@
 ![abc](https://github.com/Sachin2903/Sachin2903/assets/92660783/bd3231a7-4504-4847-bc8c-644333863ca4)
 
 <h1 align="center">Hi 👋, I'm Sachin Chaturvedi</h1>
-<h3 align="center">React Front-End Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 # 💫 About Me:
-Hi! I am Sachin Chaturvedi <br>A Frontend Developer focused on crafting great web experiences. <br>Designing and Coding have been my passion since the day I started working with computers but<br>I found myself into Web Development. I enjoy creating beautifully designed and functional websites.<br><br>
+Hi! I am Sachin Chaturvedi <br> Full Stack Developer focused on crafting great web experiences. <br>Designing and Coding have been my passion since the day I started working with computers but<br>I found myself into Web Development. I enjoy creating beautifully designed and functional websites.<br><br>
 
 ## My Portfolio 
 📍 https://sachin-chaturvedi-portfolio.netlify.app/
